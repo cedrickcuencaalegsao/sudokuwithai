@@ -1,0 +1,4 @@
+numpy>=1.24
+onnxruntime>=1.17
+# only needed for make_dummy_model.py (smoke-testing without a trained model):
+onnx>=1.15
