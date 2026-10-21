@@ -65,3 +65,4 @@ The summary shows how many model choices matched the true solution, plus one-sho
 
 Check the first row of the CSV the model was trained on to pick the right flags. If
 one-shot accuracy is near 11% (random guessing among 9 digits), the encoding is probably wrong.# sudokuwithai
+# sudokuwithai
