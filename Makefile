@@ -10,7 +10,7 @@
 #
 # Extra flags go in ARGS, e.g.  make run ARGS="--layout channel-major"
 
-MODEL ?= model.onnx
+MODEL ?= sudoku_model_3.onnx
 CLUES ?= 32
 SEED  ?=
 ARGS  ?=
